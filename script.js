@@ -1,7 +1,3 @@
-// -----------------------------
-// Typing Practice (script.js)
-// Copy-paste, drag/drop & context-menu prevention added
-// -----------------------------
 
 const paragraphPool = [
   "Typing is one of the most important skills in the digital age. Fast and accurate typing can save you valuable time every day.",
@@ -354,4 +350,5 @@ resetBtn.addEventListener('click', resetTyping);
 // Initialize
 displayText();
 typingInput.focus();
+
 
